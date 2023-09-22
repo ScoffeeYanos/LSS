@@ -1,5 +1,5 @@
 # LSS5
-starconfig:
+startconfig:
 login 
 password (set both 0 to login manually) 
 debuglvl(recommend: 2 for normal, 4 for debug) 
